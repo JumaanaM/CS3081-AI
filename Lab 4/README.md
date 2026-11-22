@@ -1,4 +1,4 @@
-CS3081 Artificial Intelligence - Bayesian Networks Lab
+CS3081 Artificial Intelligence - Lab 4: Bayesian Networks Lab
 
 Overview
 - This notebook builds a discrete Bayesian Network using pgmpy to model probabilistic relationships. It demonstrates joint probability calculations and exact inference using VariableElimination.
