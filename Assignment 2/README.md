@@ -8,5 +8,5 @@ Summary of Findings
 - Level 02 (Resolution Dominoes): Matched 6 clause card pairs, applied factoring where duplicates appeared, and identified the trap pair (CARD_A and CARD_I) which yields a tautology rather than an empty clause.
 - Level 03 (Solve the Case):
       Omar (KB ⊨ O): Guilty (derived empty clause).
-      Sara ($KB ⊨ ¬S): Innocent (derived empty clause).
+      Sara (KB ⊨ ¬S): Innocent (derived empty clause).
       Lina: Undetermined (neither L nor ¬L is entailed by the KB).
